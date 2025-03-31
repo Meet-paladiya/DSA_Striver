@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/meetpaladiya/Developer/Full_Dsa_Striver/array",
+      "program": "/Users/meetpaladiya/Developer/Full_Dsa_Striver/array/build/Debug/outDebug"
+    }
+  ]
+}
