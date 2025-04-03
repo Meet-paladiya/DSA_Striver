@@ -6,7 +6,7 @@
 
 using namespace std;
 
-long long maximumTripletValue_bruteforce(vector<int>& nums) {
+long long maximumTripletValue_optimal(vector<int>& nums) {
     long long maxPrefix = 0, maxDiff = 0, maxTriplet = 0;
 
     for (int num : nums) {
@@ -17,7 +17,7 @@ long long maximumTripletValue_bruteforce(vector<int>& nums) {
     return maxTriplet;
 };
 
-long long maximumTripletValue_optimal(vector<int>& nums) {
+long long maximumTripletValue_bruteforce(vector<int>& nums) {
     int n = nums.size();
     long long maxans = 0; // Store maximum triplet value
 

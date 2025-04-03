@@ -42,7 +42,8 @@ int optimal_force(int arr[],int n){
         slargest = largest;
         largest = arr[i];
     }
-    else if(arr[i]>slargest && arr[i] < largest){
+    else if(arr[i]>slargest && arr[i] < largest){ // aagal ni vakhat je slargest
+        //  assign thayu hoi tena thi jo motuhoi arr[i] to ganvanu 
         slargest = arr[i];
     }
    }
