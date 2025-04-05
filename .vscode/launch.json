@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/meetpaladiya/Developer/Full_Dsa_Striver/Array/Array -> Easy",
-      "program": "/Users/meetpaladiya/Developer/Full_Dsa_Striver/Array/Array -> Easy/build/Debug/outDebug"
+      "cwd": "/Users/meetpaladiya/Developer/Full_Dsa_Striver/Array/Array -> Medium",
+      "program": "/Users/meetpaladiya/Developer/Full_Dsa_Striver/Array/Array -> Medium/build/Debug/outDebug"
     }
   ]
 }
